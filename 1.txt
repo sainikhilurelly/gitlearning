@@ -1,3 +1,6 @@
 heyyyyy its a change 
+<<<<<<< HEAD
 hello master
 
+=======
+>>>>>>> 820341d4ea1ab23e68d59b01da8bce07897424c3
